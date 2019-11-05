@@ -7,23 +7,23 @@
 	[
 		"Agila Theme",
 		"All Autocomplete",
-		"AutoFileName",
 		"Babel",
-		"ChangeQuotes",
+		"Color Scheme - Vintage Terminal",
 		"ColorPicker",
 		"Colorsublime",
 		"Django",
 		"Emoji",
 		"FileIcons",
 		"Git",
-		"Gutter Color",
-		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
+		"JsPrettier",
 		"LoremIpsum",
 		"Maybs Quit",
 		"Nodejs",
 		"Package Control",
 		"SideBarEnhancements",
-		"TypeScript"
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-tslint",
 	]
 }
