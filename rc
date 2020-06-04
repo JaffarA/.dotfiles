@@ -1,0 +1,19 @@
+# >>> jaf >>>
+
+if [ -f /usr/bin/ytop ] || [ -f /usr/bin/local/ytop ]
+then
+        alias ytop='ytop -m -s -c vice'
+fi
+
+if [ -f /usr/bin/xclip ] || [ -f /usr/bin/local/xclip ]
+then
+        alias c='xclip -selection clipboard'
+        alias v='xclip -o'
+fi
+
+if [ -f /usr/bin/neofetch ] || [ -f /usr/local/bin/neofetch ]
+then
+        neofetch
+fi
+
+# <<< jaf <<<
