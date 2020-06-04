@@ -1,5 +1,10 @@
 # >>> jaf >>>
 
+if [ -f /usr/bin/zsh ]
+then
+        ZSH_THEME='ys'
+fi
+
 if [ -f /usr/bin/ytop ] || [ -f /usr/bin/local/ytop ]
 then
         alias ytop='ytop -m -s -c vice'
