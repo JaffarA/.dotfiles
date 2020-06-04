@@ -3,6 +3,7 @@
 if [ -f /usr/bin/zsh ]
 then
         ZSH_THEME='ys'
+        ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#ff00ff,bg=cyan,bold,underline"
 fi
 
 if [ -f /usr/bin/ytop ] || [ -f /usr/bin/local/ytop ]
